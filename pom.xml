@@ -11,7 +11,7 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <poi.version>3.17</poi.version>
+    <poi.version>4.1.1</poi.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jre.level>1.8</jre.level>
 		<jdk.level>1.8</jdk.level>
